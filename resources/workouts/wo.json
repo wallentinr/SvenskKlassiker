@@ -1,0 +1,159 @@
+{
+    "workouts": [
+        {
+            "name": "Classic Vasa",
+            "reps": 3,
+            "routine":[
+                {
+                    "name" :"Situps",
+                    "time": 30
+                },
+                {
+                    "name" :"Vila",
+                    "time": 20
+                },
+                {
+                    "name" :"Kissande hunden",
+                    "time": 30
+                },
+                {
+                    "name" :"Vila",
+                    "time": 20
+                },
+                {
+                    "name" :"Dips",
+                    "time": 30
+                },
+                {
+                    "name" :"Vila",
+                    "time": 20
+                },
+                {
+                    "name" :"Sneda situps",
+                    "time": 30
+                },
+                {
+                    "name" :"Vila",
+                    "time": 20
+                },
+                {
+                    "name" :"Ryggresning",
+                    "time": 30
+                },
+                {
+                    "name" :"Vila",
+                    "time": 20
+                },
+                {
+                    "name" :"Armhävningar",
+                    "time": 30
+                }
+            ] 
+            
+        },
+        {
+            "name": "Upper Body",
+            "reps": 2,
+            "routine":[
+                {
+                    "name" :"Pullups",
+                    "time": 40
+                },
+                {
+                    "name" :"Rest",
+                    "time": 20
+                },
+                {
+                    "name" :"Dips",
+                    "time": 40
+                },
+                {
+                    "name" :"Rest",
+                    "time": 20
+                },
+                {
+                    "name" :"Prone Row",
+                    "time": 40
+                },
+                {
+                    "name" :"Rest",
+                    "time": 20
+                },
+                {
+                    "name" :"Pushups",
+                    "time": 40
+                }
+                
+            ] 
+            
+        },
+        {
+            "name": "Core",
+            "reps": 2,
+            "routine":[
+                {
+                    "name" :"plank",
+                    "time": 40
+                },
+                {
+                    "name" :"Rest",
+                    "time": 20
+                },
+                {
+                    "name" :"Plank left",
+                    "time": 20
+                },
+                {
+                    "name" :"Rest",
+                    "time": 10
+                },
+                {
+                    "name" :"Plank right",
+                    "time": 20
+                },
+                {
+                    "name" :"Rest",
+                    "time": 20
+                },
+                {
+                    "name" :"Crunches",
+                    "time": 40
+                },
+                {
+                    "name" :"Rest",
+                    "time": 20
+                },
+                {
+                    "name" :"Windshield wipers",
+                    "time": 40
+                },
+                {
+                    "name" :"Rest",
+                    "time": 20
+                },
+                {
+                    "name" :"Supine Leg Lift",
+                    "time": 40
+                },
+                {
+                    "name" :"Rest",
+                    "time": 20
+                },
+                {
+                    "name" :"Russian Twist",
+                    "time": 40
+                },
+                {
+                    "name" :"Rest",
+                    "time": 20
+                },
+                {
+                    "name" :"Supermans",
+                    "time": 40
+                }
+            ] 
+            
+        }
+
+    ]
+}

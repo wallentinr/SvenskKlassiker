@@ -1,0 +1,17 @@
+{
+    "workouts": [
+        {
+            "name": "Classic Vättern",
+            "reps": 3,
+            "routine":[
+                {
+                    "name" :"upphopp",
+                    "time": 30
+                }
+                
+            ] 
+            
+        }
+
+    ]
+}

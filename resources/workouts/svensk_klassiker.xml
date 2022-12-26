@@ -1,0 +1,7 @@
+<resources>
+    <jsonData id="vasa" filename="vasa.json"/>
+    <jsonData id="vatternrundan" filename="vrundan.json"/>
+    <jsonData id="swiming" filename="swim.json"/>
+    <jsonData id="run" filename="lidingoloppet.json"/>
+    <jsonData id="events" filename="events.json"/>
+</resources>

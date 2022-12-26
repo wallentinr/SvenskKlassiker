@@ -1,0 +1,17 @@
+{
+    "workouts": [
+        {
+            "name": "Classic spring",
+            "reps": 3,
+            "routine":[
+                {
+                    "name" :"upphopp",
+                    "time": 30
+                }
+                
+            ] 
+            
+        }
+
+    ]
+}

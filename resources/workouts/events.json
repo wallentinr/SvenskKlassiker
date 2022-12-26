@@ -1,0 +1,28 @@
+{
+    "events" : [
+        {
+            "name" : "Vasaloppet",
+            "year" : 2023,
+            "month" : 3,
+            "day" : 5
+        },
+        {
+            "name" : "Vätternrundan",
+            "year" : 2023,
+            "month" : 6,
+            "day" : 16
+        },
+        {
+            "name" : "Vansbro simningen",
+            "year" : 2023,
+            "month" : 7,
+            "day" : 8
+        },
+        {
+            "name" : "Lidingöloppet",
+            "year" : 2023,
+            "month" : 9,
+            "day" : 23
+        }
+    ]
+}

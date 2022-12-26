@@ -18,9 +18,9 @@ class SvenskKlassikerApp extends Application.AppBase {
 
     // Return the initial view of your application here
     function getInitialView() as Array<Views or InputDelegates>? {
-        var array = Application.loadResource(Rez.JsonData.jsonFile);
-        var view = new SvenskKlassikerStartView();
-        return [ view, new SvenskKlassikerStartDelegate(view) ] as Array<Views or InputDelegates>;
+        var array = Application.loadResource(Rez.JsonData.vasa);
+        var view = new SvenskKlassikerEventsView();
+        return [ view, new SvenskKlassikerEventsDelegate(view) ] as Array<Views or InputDelegates>;
         // var view = new SvenskKlassikerView(array["workouts"][0]);
         // return [ view, new SvenskKlassikerDelegate(view) ] as Array<Views or InputDelegates>;
     }

@@ -9,398 +9,514 @@
 <entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerMenuDelegate.mc" id="2" lineNum="13" parent="globals/SvenskKlassikerMenuDelegate" pc="268435494" symbol="onMenuItem"/>
 <entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerMenuDelegate.mc" id="2" lineNum="14" parent="globals/SvenskKlassikerMenuDelegate" pc="268435518" symbol="onMenuItem"/>
 <entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerMenuDelegate.mc" id="2" lineNum="15" parent="globals/SvenskKlassikerMenuDelegate" pc="268435529" symbol="onMenuItem"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerMenuDelegate.mc" id="3" lineNum="5" parent="globals/SvenskKlassikerMenuDelegate" pc="268440812" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerMenuDelegate.mc" id="3" lineNum="5" parent="globals/SvenskKlassikerMenuDelegate" pc="268440812" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="5" lineNum="6" parent="globals/SvenskKlassikerDelegate" pc="268435554" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="5" lineNum="7" parent="globals/SvenskKlassikerDelegate" pc="268435558" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="5" lineNum="8" parent="globals/SvenskKlassikerDelegate" pc="268435568" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="6" lineNum="11" parent="globals/SvenskKlassikerDelegate" pc="268435587" symbol="onTap"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="6" lineNum="13" parent="globals/SvenskKlassikerDelegate" pc="268435591" symbol="onTap"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="6" lineNum="15" parent="globals/SvenskKlassikerDelegate" pc="268435604" symbol="onTap"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="7" lineNum="19" parent="globals/SvenskKlassikerDelegate" pc="268435625" symbol="onKeyPressed"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="7" lineNum="20" parent="globals/SvenskKlassikerDelegate" pc="268435629" symbol="onKeyPressed"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="8" lineNum="24" parent="globals/SvenskKlassikerDelegate" pc="268435659" symbol="onSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="8" lineNum="25" parent="globals/SvenskKlassikerDelegate" pc="268435663" symbol="onSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="8" lineNum="26" parent="globals/SvenskKlassikerDelegate" pc="268435692" symbol="onSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="9" lineNum="30" parent="globals/SvenskKlassikerDelegate" pc="268435696" symbol="onMenu"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="9" lineNum="31" parent="globals/SvenskKlassikerDelegate" pc="268435700" symbol="onMenu"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="9" lineNum="32" parent="globals/SvenskKlassikerDelegate" pc="268435784" symbol="onMenu"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="10" lineNum="4" parent="globals/SvenskKlassikerDelegate" pc="268441293" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="10" lineNum="4" parent="globals/SvenskKlassikerDelegate" pc="268441293" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="12" lineNum="13" parent="globals/SvenskKlassikerStartView" pc="268435788" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="12" lineNum="14" parent="globals/SvenskKlassikerStartView" pc="268435792" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="13" lineNum="21" parent="globals/SvenskKlassikerStartView" pc="268435815" symbol="onLayout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="14" lineNum="31" parent="globals/SvenskKlassikerStartView" pc="268435820" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="14" lineNum="32" parent="globals/SvenskKlassikerStartView" pc="268435824" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="14" lineNum="33" parent="globals/SvenskKlassikerStartView" pc="268435837" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="14" lineNum="35" parent="globals/SvenskKlassikerStartView" pc="268435850" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="14" lineNum="36" parent="globals/SvenskKlassikerStartView" pc="268435886" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="14" lineNum="38" parent="globals/SvenskKlassikerStartView" pc="268435898" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="14" lineNum="39" parent="globals/SvenskKlassikerStartView" pc="268435928" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="14" lineNum="40" parent="globals/SvenskKlassikerStartView" pc="268435964" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="14" lineNum="41" parent="globals/SvenskKlassikerStartView" pc="268436026" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="14" lineNum="42" parent="globals/SvenskKlassikerStartView" pc="268436062" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="14" lineNum="43" parent="globals/SvenskKlassikerStartView" pc="268436203" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="15" lineNum="9" parent="globals/SvenskKlassikerStartView" pc="268441273" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="15" lineNum="9" parent="globals/SvenskKlassikerStartView" pc="268441273" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="17" lineNum="10" parent="globals/Workout" pc="268436282" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="17" lineNum="11" parent="globals/Workout" pc="268436286" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="17" lineNum="12" parent="globals/Workout" pc="268436296" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="18" lineNum="7" parent="globals/Workout" pc="268441292" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="19" lineNum="46" parent="globals/SvenskKlassikerView" pc="268436307" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="19" lineNum="47" parent="globals/SvenskKlassikerView" pc="268436311" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="19" lineNum="48" parent="globals/SvenskKlassikerView" pc="268436321" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="19" lineNum="49" parent="globals/SvenskKlassikerView" pc="268436343" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="19" lineNum="50" parent="globals/SvenskKlassikerView" pc="268436371" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="19" lineNum="51" parent="globals/SvenskKlassikerView" pc="268436381" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="20" lineNum="54" parent="globals/SvenskKlassikerView" pc="268436427" symbol="prev_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="20" lineNum="55" parent="globals/SvenskKlassikerView" pc="268436431" symbol="prev_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="20" lineNum="56" parent="globals/SvenskKlassikerView" pc="268436506" symbol="prev_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="20" lineNum="58" parent="globals/SvenskKlassikerView" pc="268436540" symbol="prev_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="20" lineNum="59" parent="globals/SvenskKlassikerView" pc="268436557" symbol="prev_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="20" lineNum="60" parent="globals/SvenskKlassikerView" pc="268436588" symbol="prev_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="20" lineNum="61" parent="globals/SvenskKlassikerView" pc="268436607" symbol="prev_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="20" lineNum="64" parent="globals/SvenskKlassikerView" pc="268436641" symbol="prev_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="20" lineNum="65" parent="globals/SvenskKlassikerView" pc="268436660" symbol="prev_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="70" parent="globals/SvenskKlassikerView" pc="268436692" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="71" parent="globals/SvenskKlassikerView" pc="268436696" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="72" parent="globals/SvenskKlassikerView" pc="268436715" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="73" parent="globals/SvenskKlassikerView" pc="268436744" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="74" parent="globals/SvenskKlassikerView" pc="268436763" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="75" parent="globals/SvenskKlassikerView" pc="268436783" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="77" parent="globals/SvenskKlassikerView" pc="268436796" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="78" parent="globals/SvenskKlassikerView" pc="268436806" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="79" parent="globals/SvenskKlassikerView" pc="268436818" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="80" parent="globals/SvenskKlassikerView" pc="268436831" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="83" parent="globals/SvenskKlassikerView" pc="268436840" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="85" parent="globals/SvenskKlassikerView" pc="268436853" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="87" parent="globals/SvenskKlassikerView" pc="268436884" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="21" lineNum="89" parent="globals/SvenskKlassikerView" pc="268436915" symbol="next_workout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="22" lineNum="92" parent="globals/SvenskKlassikerView" pc="268436922" symbol="tim_callback"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="22" lineNum="93" parent="globals/SvenskKlassikerView" pc="268436926" symbol="tim_callback"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="22" lineNum="94" parent="globals/SvenskKlassikerView" pc="268436945" symbol="tim_callback"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="22" lineNum="96" parent="globals/SvenskKlassikerView" pc="268436964" symbol="tim_callback"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="22" lineNum="98" parent="globals/SvenskKlassikerView" pc="268436981" symbol="tim_callback"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="22" lineNum="100" parent="globals/SvenskKlassikerView" pc="268437005" symbol="tim_callback"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="22" lineNum="101" parent="globals/SvenskKlassikerView" pc="268437025" symbol="tim_callback"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="22" lineNum="105" parent="globals/SvenskKlassikerView" pc="268437055" symbol="tim_callback"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="23" lineNum="110" parent="globals/SvenskKlassikerView" pc="268437072" symbol="onLayout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="23" lineNum="111" parent="globals/SvenskKlassikerView" pc="268437076" symbol="onLayout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="23" lineNum="112" parent="globals/SvenskKlassikerView" pc="268437101" symbol="onLayout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="23" lineNum="113" parent="globals/SvenskKlassikerView" pc="268437126" symbol="onLayout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="23" lineNum="114" parent="globals/SvenskKlassikerView" pc="268437157" symbol="onLayout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="23" lineNum="115" parent="globals/SvenskKlassikerView" pc="268437182" symbol="onLayout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="23" lineNum="117" parent="globals/SvenskKlassikerView" pc="268437204" symbol="onLayout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="23" lineNum="118" parent="globals/SvenskKlassikerView" pc="268437240" symbol="onLayout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="23" lineNum="119" parent="globals/SvenskKlassikerView" pc="268437265" symbol="onLayout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="23" lineNum="120" parent="globals/SvenskKlassikerView" pc="268437290" symbol="onLayout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="23" lineNum="123" parent="globals/SvenskKlassikerView" pc="268437347" symbol="onLayout"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="24" lineNum="128" parent="globals/SvenskKlassikerView" pc="268437376" symbol="start_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="24" lineNum="129" parent="globals/SvenskKlassikerView" pc="268437380" symbol="start_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="24" lineNum="130" parent="globals/SvenskKlassikerView" pc="268437405" symbol="start_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="24" lineNum="131" parent="globals/SvenskKlassikerView" pc="268437424" symbol="start_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="24" lineNum="132" parent="globals/SvenskKlassikerView" pc="268437460" symbol="start_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="24" lineNum="133" parent="globals/SvenskKlassikerView" pc="268437493" symbol="start_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="24" lineNum="136" parent="globals/SvenskKlassikerView" pc="268437529" symbol="start_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="24" lineNum="137" parent="globals/SvenskKlassikerView" pc="268437565" symbol="start_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="24" lineNum="140" parent="globals/SvenskKlassikerView" pc="268437697" symbol="start_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="24" lineNum="141" parent="globals/SvenskKlassikerView" pc="268437733" symbol="start_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="146" parent="globals/SvenskKlassikerView" pc="268437824" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="147" parent="globals/SvenskKlassikerView" pc="268437828" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="148" parent="globals/SvenskKlassikerView" pc="268437864" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="149" parent="globals/SvenskKlassikerView" pc="268437874" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="150" parent="globals/SvenskKlassikerView" pc="268437949" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="151" parent="globals/SvenskKlassikerView" pc="268438003" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="152" parent="globals/SvenskKlassikerView" pc="268438038" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="153" parent="globals/SvenskKlassikerView" pc="268438074" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="154" parent="globals/SvenskKlassikerView" pc="268438158" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="155" parent="globals/SvenskKlassikerView" pc="268438184" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="156" parent="globals/SvenskKlassikerView" pc="268438220" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="159" parent="globals/SvenskKlassikerView" pc="268438295" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="160" parent="globals/SvenskKlassikerView" pc="268438331" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="163" parent="globals/SvenskKlassikerView" pc="268438388" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="164" parent="globals/SvenskKlassikerView" pc="268438405" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="166" parent="globals/SvenskKlassikerView" pc="268438441" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="173" parent="globals/SvenskKlassikerView" pc="268438615" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="174" parent="globals/SvenskKlassikerView" pc="268438626" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="176" parent="globals/SvenskKlassikerView" pc="268438662" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="177" parent="globals/SvenskKlassikerView" pc="268438687" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="178" parent="globals/SvenskKlassikerView" pc="268438706" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="179" parent="globals/SvenskKlassikerView" pc="268438713" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="180" parent="globals/SvenskKlassikerView" pc="268438720" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="181" parent="globals/SvenskKlassikerView" pc="268438727" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="25" lineNum="182" parent="globals/SvenskKlassikerView" pc="268438747" symbol="on_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="26" lineNum="186" parent="globals/SvenskKlassikerView" pc="268438774" symbol="end_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="26" lineNum="187" parent="globals/SvenskKlassikerView" pc="268438778" symbol="end_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="26" lineNum="189" parent="globals/SvenskKlassikerView" pc="268438814" symbol="end_scene"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="27" lineNum="193" parent="globals/SvenskKlassikerView" pc="268438881" symbol="screenTap"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="198" parent="globals/SvenskKlassikerView" pc="268438886" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="199" parent="globals/SvenskKlassikerView" pc="268438890" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="201" parent="globals/SvenskKlassikerView" pc="268438907" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="202" parent="globals/SvenskKlassikerView" pc="268438918" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="204" parent="globals/SvenskKlassikerView" pc="268438934" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="205" parent="globals/SvenskKlassikerView" pc="268438945" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="206" parent="globals/SvenskKlassikerView" pc="268438957" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="207" parent="globals/SvenskKlassikerView" pc="268439001" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="208" parent="globals/SvenskKlassikerView" pc="268439012" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="209" parent="globals/SvenskKlassikerView" pc="268439024" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="211" parent="globals/SvenskKlassikerView" pc="268439068" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="213" parent="globals/SvenskKlassikerView" pc="268439087" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="214" parent="globals/SvenskKlassikerView" pc="268439104" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="215" parent="globals/SvenskKlassikerView" pc="268439115" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="216" parent="globals/SvenskKlassikerView" pc="268439137" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="217" parent="globals/SvenskKlassikerView" pc="268439168" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="28" lineNum="219" parent="globals/SvenskKlassikerView" pc="268439190" symbol="screenSwipe"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="223" parent="globals/SvenskKlassikerView" pc="268439210" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="224" parent="globals/SvenskKlassikerView" pc="268439214" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="225" parent="globals/SvenskKlassikerView" pc="268439225" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="227" parent="globals/SvenskKlassikerView" pc="268439242" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="228" parent="globals/SvenskKlassikerView" pc="268439283" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="229" parent="globals/SvenskKlassikerView" pc="268439296" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="231" parent="globals/SvenskKlassikerView" pc="268439323" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="232" parent="globals/SvenskKlassikerView" pc="268439340" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="233" parent="globals/SvenskKlassikerView" pc="268439357" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="234" parent="globals/SvenskKlassikerView" pc="268439368" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="236" parent="globals/SvenskKlassikerView" pc="268439383" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="238" parent="globals/SvenskKlassikerView" pc="268439395" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="239" parent="globals/SvenskKlassikerView" pc="268439414" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="240" parent="globals/SvenskKlassikerView" pc="268439431" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="242" parent="globals/SvenskKlassikerView" pc="268439450" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="29" lineNum="243" parent="globals/SvenskKlassikerView" pc="268439461" symbol="btnPress"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="30" lineNum="250" parent="globals/SvenskKlassikerView" pc="268439483" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="30" lineNum="251" parent="globals/SvenskKlassikerView" pc="268439487" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="30" lineNum="253" parent="globals/SvenskKlassikerView" pc="268439523" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="30" lineNum="254" parent="globals/SvenskKlassikerView" pc="268439535" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="30" lineNum="255" parent="globals/SvenskKlassikerView" pc="268439552" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="30" lineNum="256" parent="globals/SvenskKlassikerView" pc="268439569" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="30" lineNum="257" parent="globals/SvenskKlassikerView" pc="268439586" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="30" lineNum="258" parent="globals/SvenskKlassikerView" pc="268439603" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="30" lineNum="259" parent="globals/SvenskKlassikerView" pc="268439620" symbol="onUpdate"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="31" lineNum="265" parent="globals/SvenskKlassikerView" pc="268439638" symbol="stopTimer"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="31" lineNum="266" parent="globals/SvenskKlassikerView" pc="268439642" symbol="stopTimer"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="31" lineNum="267" parent="globals/SvenskKlassikerView" pc="268439652" symbol="stopTimer"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="31" lineNum="268" parent="globals/SvenskKlassikerView" pc="268439659" symbol="stopTimer"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="32" lineNum="272" parent="globals/SvenskKlassikerView" pc="268439675" symbol="startTimer"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="32" lineNum="273" parent="globals/SvenskKlassikerView" pc="268439679" symbol="startTimer"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="32" lineNum="274" parent="globals/SvenskKlassikerView" pc="268439689" symbol="startTimer"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="32" lineNum="275" parent="globals/SvenskKlassikerView" pc="268439696" symbol="startTimer"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="33" lineNum="16" parent="globals/SvenskKlassikerView" pc="268440831" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="33" lineNum="17" parent="globals/SvenskKlassikerView" pc="268440849" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="33" lineNum="29" parent="globals/SvenskKlassikerView" pc="268441171" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="33" lineNum="16" parent="globals/SvenskKlassikerView" pc="268440831" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="35" lineNum="7" parent="globals/SvenskKlassikerApp" pc="268439735" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="35" lineNum="8" parent="globals/SvenskKlassikerApp" pc="268439739" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="36" lineNum="12" parent="globals/SvenskKlassikerApp" pc="268439758" symbol="onStart"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="37" lineNum="16" parent="globals/SvenskKlassikerApp" pc="268439763" symbol="onStop"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="38" lineNum="20" parent="globals/SvenskKlassikerApp" pc="268439768" symbol="getInitialView"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="38" lineNum="21" parent="globals/SvenskKlassikerApp" pc="268439772" symbol="getInitialView"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="38" lineNum="22" parent="globals/SvenskKlassikerApp" pc="268439809" symbol="getInitialView"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="38" lineNum="23" parent="globals/SvenskKlassikerApp" pc="268439833" symbol="getInitialView"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="39" lineNum="5" parent="globals/SvenskKlassikerApp" pc="268441205" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="39" lineNum="5" parent="globals/SvenskKlassikerApp" pc="268441205" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="40" lineNum="30" parent="globals" pc="268439883" symbol="getApp"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="40" lineNum="31" parent="globals" pc="268439895" symbol="getApp"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="42" lineNum="7" parent="globals/SvenskKlassikerStartDelegate" pc="268439912" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="42" lineNum="8" parent="globals/SvenskKlassikerStartDelegate" pc="268439916" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="42" lineNum="9" parent="globals/SvenskKlassikerStartDelegate" pc="268439934" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="42" lineNum="10" parent="globals/SvenskKlassikerStartDelegate" pc="268439944" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="42" lineNum="11" parent="globals/SvenskKlassikerStartDelegate" pc="268439995" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="42" lineNum="12" parent="globals/SvenskKlassikerStartDelegate" pc="268440025" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="42" lineNum="13" parent="globals/SvenskKlassikerStartDelegate" pc="268440032" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="42" lineNum="14" parent="globals/SvenskKlassikerStartDelegate" pc="268440071" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="42" lineNum="16" parent="globals/SvenskKlassikerStartDelegate" pc="268440115" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="42" lineNum="19" parent="globals/SvenskKlassikerStartDelegate" pc="268440153" symbol="initialize"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="43" lineNum="22" parent="globals/SvenskKlassikerStartDelegate" pc="268440176" symbol="getWorkoutFromY"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="43" lineNum="23" parent="globals/SvenskKlassikerStartDelegate" pc="268440180" symbol="getWorkoutFromY"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="43" lineNum="24" parent="globals/SvenskKlassikerStartDelegate" pc="268440205" symbol="getWorkoutFromY"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="43" lineNum="25" parent="globals/SvenskKlassikerStartDelegate" pc="268440205" symbol="getWorkoutFromY"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="43" lineNum="26" parent="globals/SvenskKlassikerStartDelegate" pc="268440235" symbol="getWorkoutFromY"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="43" lineNum="27" parent="globals/SvenskKlassikerStartDelegate" pc="268440266" symbol="getWorkoutFromY"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="43" lineNum="28" parent="globals/SvenskKlassikerStartDelegate" pc="268440274" symbol="getWorkoutFromY"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="43" lineNum="32" parent="globals/SvenskKlassikerStartDelegate" pc="268440293" symbol="getWorkoutFromY"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="44" lineNum="35" parent="globals/SvenskKlassikerStartDelegate" pc="268440297" symbol="onTap"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="44" lineNum="36" parent="globals/SvenskKlassikerStartDelegate" pc="268440301" symbol="onTap"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="44" lineNum="37" parent="globals/SvenskKlassikerStartDelegate" pc="268440320" symbol="onTap"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="44" lineNum="38" parent="globals/SvenskKlassikerStartDelegate" pc="268440366" symbol="onTap"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="45" lineNum="42" parent="globals/SvenskKlassikerStartDelegate" pc="268440421" symbol="onMenu"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="45" lineNum="43" parent="globals/SvenskKlassikerStartDelegate" pc="268440425" symbol="onMenu"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="45" lineNum="44" parent="globals/SvenskKlassikerStartDelegate" pc="268440509" symbol="onMenu"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="46" lineNum="4" parent="globals/SvenskKlassikerStartDelegate" pc="268441186" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="46" lineNum="4" parent="globals/SvenskKlassikerStartDelegate" pc="268441186" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="48" lineNum="2" parent="globals/Rez/Drawables" pc="268441248" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="49" lineNum="7" parent="globals/Rez/Fonts" pc="268441269" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="50" lineNum="9" parent="globals/Rez/JsonData" pc="268441271" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="51" lineNum="20" parent="globals/Rez/Layouts" pc="268440513" symbol="MainLayout"/>
-<entry filename="Rez" id="51" lineNum="22" parent="globals/Rez/Layouts" pc="268440525" symbol="MainLayout"/>
-<entry filename="Rez" id="51" lineNum="24" parent="globals/Rez/Layouts" pc="268440658" symbol="MainLayout"/>
-<entry filename="Rez" id="52" lineNum="13" parent="globals/Rez/Layouts" pc="268441270" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="53" lineNum="38" parent="globals/Rez/Menus/MainMenu" pc="268440676" symbol="initialize"/>
-<entry filename="Rez" id="53" lineNum="39" parent="globals/Rez/Menus/MainMenu" pc="268440680" symbol="initialize"/>
-<entry filename="Rez" id="53" lineNum="40" parent="globals/Rez/Menus/MainMenu" pc="268440698" symbol="initialize"/>
-<entry filename="Rez" id="53" lineNum="41" parent="globals/Rez/Menus/MainMenu" pc="268440754" symbol="initialize"/>
-<entry filename="Rez" id="54" lineNum="36" parent="globals/Rez/Menus/MainMenu" pc="268441250" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="54" lineNum="36" parent="globals/Rez/Menus/MainMenu" pc="268441250" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="55" lineNum="29" parent="globals/Rez/Menus" pc="268441249" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="56" lineNum="47" parent="globals/Rez/Strings" pc="268441272" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="57" lineNum="1" parent="globals/Rez" pc="268441224" symbol="&lt;init&gt;"/>
-<entry filename="Rez" id="57" lineNum="1" parent="globals/Rez" pc="268441224" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerMenuDelegate.mc" id="3" lineNum="5" parent="globals/SvenskKlassikerMenuDelegate" pc="268442139" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerMenuDelegate.mc" id="3" lineNum="5" parent="globals/SvenskKlassikerMenuDelegate" pc="268442139" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="5" lineNum="11" parent="globals/SvenskKlassikerEventsDelegate" pc="268435554" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="5" lineNum="12" parent="globals/SvenskKlassikerEventsDelegate" pc="268435558" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="5" lineNum="13" parent="globals/SvenskKlassikerEventsDelegate" pc="268435576" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="5" lineNum="14" parent="globals/SvenskKlassikerEventsDelegate" pc="268435586" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="5" lineNum="15" parent="globals/SvenskKlassikerEventsDelegate" pc="268435637" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="5" lineNum="16" parent="globals/SvenskKlassikerEventsDelegate" pc="268435659" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="6" lineNum="21" parent="globals/SvenskKlassikerEventsDelegate" pc="268435686" symbol="onTap"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="6" lineNum="22" parent="globals/SvenskKlassikerEventsDelegate" pc="268435690" symbol="onTap"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="6" lineNum="23" parent="globals/SvenskKlassikerEventsDelegate" pc="268435714" symbol="onTap"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="7" lineNum="27" parent="globals/SvenskKlassikerEventsDelegate" pc="268435786" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="7" lineNum="28" parent="globals/SvenskKlassikerEventsDelegate" pc="268435790" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="7" lineNum="29" parent="globals/SvenskKlassikerEventsDelegate" pc="268435803" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="7" lineNum="30" parent="globals/SvenskKlassikerEventsDelegate" pc="268435814" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="7" lineNum="31" parent="globals/SvenskKlassikerEventsDelegate" pc="268435833" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="7" lineNum="32" parent="globals/SvenskKlassikerEventsDelegate" pc="268435850" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="7" lineNum="34" parent="globals/SvenskKlassikerEventsDelegate" pc="268435866" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="7" lineNum="35" parent="globals/SvenskKlassikerEventsDelegate" pc="268435895" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="7" lineNum="36" parent="globals/SvenskKlassikerEventsDelegate" pc="268435906" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="7" lineNum="37" parent="globals/SvenskKlassikerEventsDelegate" pc="268435925" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="7" lineNum="39" parent="globals/SvenskKlassikerEventsDelegate" pc="268435959" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="7" lineNum="41" parent="globals/SvenskKlassikerEventsDelegate" pc="268435988" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="8" lineNum="44" parent="globals/SvenskKlassikerEventsDelegate" pc="268435992" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="8" lineNum="45" parent="globals/SvenskKlassikerEventsDelegate" pc="268435996" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="8" lineNum="46" parent="globals/SvenskKlassikerEventsDelegate" pc="268436080" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="9" lineNum="4" parent="globals/SvenskKlassikerEventsDelegate" pc="268441994" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="9" lineNum="9" parent="globals/SvenskKlassikerEventsDelegate" pc="268442012" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsDelegate.mc" id="9" lineNum="4" parent="globals/SvenskKlassikerEventsDelegate" pc="268441994" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="11" lineNum="6" parent="globals/SvenskKlassikerDelegate" pc="268436084" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="11" lineNum="7" parent="globals/SvenskKlassikerDelegate" pc="268436088" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="11" lineNum="8" parent="globals/SvenskKlassikerDelegate" pc="268436098" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="12" lineNum="11" parent="globals/SvenskKlassikerDelegate" pc="268436117" symbol="onTap"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="12" lineNum="13" parent="globals/SvenskKlassikerDelegate" pc="268436121" symbol="onTap"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="12" lineNum="15" parent="globals/SvenskKlassikerDelegate" pc="268436134" symbol="onTap"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="13" lineNum="19" parent="globals/SvenskKlassikerDelegate" pc="268436155" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="13" lineNum="20" parent="globals/SvenskKlassikerDelegate" pc="268436159" symbol="onKeyPressed"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="14" lineNum="24" parent="globals/SvenskKlassikerDelegate" pc="268436189" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="14" lineNum="25" parent="globals/SvenskKlassikerDelegate" pc="268436193" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="14" lineNum="26" parent="globals/SvenskKlassikerDelegate" pc="268436222" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="15" lineNum="30" parent="globals/SvenskKlassikerDelegate" pc="268436226" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="15" lineNum="31" parent="globals/SvenskKlassikerDelegate" pc="268436230" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="15" lineNum="32" parent="globals/SvenskKlassikerDelegate" pc="268436314" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="16" lineNum="4" parent="globals/SvenskKlassikerDelegate" pc="268442226" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerDelegate.mc" id="16" lineNum="4" parent="globals/SvenskKlassikerDelegate" pc="268442226" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="18" lineNum="19" parent="globals/SvenskKlassikerEventsView" pc="268436318" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="18" lineNum="20" parent="globals/SvenskKlassikerEventsView" pc="268436322" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="19" lineNum="23" parent="globals/SvenskKlassikerEventsView" pc="268436345" symbol="change_event"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="19" lineNum="24" parent="globals/SvenskKlassikerEventsView" pc="268436349" symbol="change_event"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="19" lineNum="25" parent="globals/SvenskKlassikerEventsView" pc="268436368" symbol="change_event"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="19" lineNum="26" parent="globals/SvenskKlassikerEventsView" pc="268436404" symbol="change_event"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="20" lineNum="33" parent="globals/SvenskKlassikerEventsView" pc="268436421" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="43" parent="globals/SvenskKlassikerEventsView" pc="268436426" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="44" parent="globals/SvenskKlassikerEventsView" pc="268436430" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="45" parent="globals/SvenskKlassikerEventsView" pc="268436443" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="47" parent="globals/SvenskKlassikerEventsView" pc="268436456" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="48" parent="globals/SvenskKlassikerEventsView" pc="268436492" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="50" parent="globals/SvenskKlassikerEventsView" pc="268436504" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="51" parent="globals/SvenskKlassikerEventsView" pc="268436552" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="52" parent="globals/SvenskKlassikerEventsView" pc="268436588" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="54" parent="globals/SvenskKlassikerEventsView" pc="268436654" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="55" parent="globals/SvenskKlassikerEventsView" pc="268436670" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="56" parent="globals/SvenskKlassikerEventsView" pc="268436686" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="57" parent="globals/SvenskKlassikerEventsView" pc="268436702" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="62" parent="globals/SvenskKlassikerEventsView" pc="268436740" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="64" parent="globals/SvenskKlassikerEventsView" pc="268436759" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="65" parent="globals/SvenskKlassikerEventsView" pc="268436776" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="21" lineNum="67" parent="globals/SvenskKlassikerEventsView" pc="268436806" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="22" lineNum="11" parent="globals/SvenskKlassikerEventsView" pc="268442245" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="22" lineNum="16" parent="globals/SvenskKlassikerEventsView" pc="268442263" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerEventsView.mc" id="22" lineNum="11" parent="globals/SvenskKlassikerEventsView" pc="268442245" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="24" lineNum="13" parent="globals/SvenskKlassikerStartView" pc="268436882" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="24" lineNum="14" parent="globals/SvenskKlassikerStartView" pc="268436886" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="25" lineNum="21" parent="globals/SvenskKlassikerStartView" pc="268436909" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="26" lineNum="31" parent="globals/SvenskKlassikerStartView" pc="268436914" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="26" lineNum="32" parent="globals/SvenskKlassikerStartView" pc="268436918" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="26" lineNum="33" parent="globals/SvenskKlassikerStartView" pc="268436931" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="26" lineNum="34" parent="globals/SvenskKlassikerStartView" pc="268436944" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="26" lineNum="35" parent="globals/SvenskKlassikerStartView" pc="268436980" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="26" lineNum="37" parent="globals/SvenskKlassikerStartView" pc="268436992" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="26" lineNum="38" parent="globals/SvenskKlassikerStartView" pc="268437028" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="26" lineNum="39" parent="globals/SvenskKlassikerStartView" pc="268437094" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="27" lineNum="42" parent="globals/SvenskKlassikerStartView" pc="268437173" symbol="change_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="27" lineNum="43" parent="globals/SvenskKlassikerStartView" pc="268437177" symbol="change_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="27" lineNum="44" parent="globals/SvenskKlassikerStartView" pc="268437187" symbol="change_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="28" lineNum="9" parent="globals/SvenskKlassikerStartView" pc="268441975" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartView.mc" id="28" lineNum="9" parent="globals/SvenskKlassikerStartView" pc="268441975" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="30" lineNum="10" parent="globals/Workout" pc="268437204" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="30" lineNum="11" parent="globals/Workout" pc="268437208" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="30" lineNum="12" parent="globals/Workout" pc="268437218" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="31" lineNum="7" parent="globals/Workout" pc="268442390" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="32" lineNum="46" parent="globals/SvenskKlassikerView" pc="268437229" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="32" lineNum="47" parent="globals/SvenskKlassikerView" pc="268437233" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="32" lineNum="48" parent="globals/SvenskKlassikerView" pc="268437243" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="32" lineNum="49" parent="globals/SvenskKlassikerView" pc="268437265" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="32" lineNum="50" parent="globals/SvenskKlassikerView" pc="268437293" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="32" lineNum="51" parent="globals/SvenskKlassikerView" pc="268437303" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="33" lineNum="54" parent="globals/SvenskKlassikerView" pc="268437349" symbol="prev_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="33" lineNum="55" parent="globals/SvenskKlassikerView" pc="268437353" symbol="prev_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="33" lineNum="56" parent="globals/SvenskKlassikerView" pc="268437428" symbol="prev_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="33" lineNum="58" parent="globals/SvenskKlassikerView" pc="268437462" symbol="prev_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="33" lineNum="59" parent="globals/SvenskKlassikerView" pc="268437479" symbol="prev_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="33" lineNum="60" parent="globals/SvenskKlassikerView" pc="268437510" symbol="prev_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="33" lineNum="61" parent="globals/SvenskKlassikerView" pc="268437529" symbol="prev_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="33" lineNum="64" parent="globals/SvenskKlassikerView" pc="268437563" symbol="prev_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="33" lineNum="65" parent="globals/SvenskKlassikerView" pc="268437582" symbol="prev_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="70" parent="globals/SvenskKlassikerView" pc="268437614" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="71" parent="globals/SvenskKlassikerView" pc="268437618" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="72" parent="globals/SvenskKlassikerView" pc="268437637" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="73" parent="globals/SvenskKlassikerView" pc="268437666" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="74" parent="globals/SvenskKlassikerView" pc="268437685" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="75" parent="globals/SvenskKlassikerView" pc="268437705" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="77" parent="globals/SvenskKlassikerView" pc="268437718" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="78" parent="globals/SvenskKlassikerView" pc="268437728" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="79" parent="globals/SvenskKlassikerView" pc="268437740" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="80" parent="globals/SvenskKlassikerView" pc="268437753" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="83" parent="globals/SvenskKlassikerView" pc="268437762" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="85" parent="globals/SvenskKlassikerView" pc="268437775" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="87" parent="globals/SvenskKlassikerView" pc="268437806" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="34" lineNum="89" parent="globals/SvenskKlassikerView" pc="268437837" symbol="next_workout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="35" lineNum="92" parent="globals/SvenskKlassikerView" pc="268437844" symbol="tim_callback"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="35" lineNum="93" parent="globals/SvenskKlassikerView" pc="268437848" symbol="tim_callback"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="35" lineNum="94" parent="globals/SvenskKlassikerView" pc="268437867" symbol="tim_callback"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="35" lineNum="96" parent="globals/SvenskKlassikerView" pc="268437886" symbol="tim_callback"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="35" lineNum="98" parent="globals/SvenskKlassikerView" pc="268437903" symbol="tim_callback"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="35" lineNum="100" parent="globals/SvenskKlassikerView" pc="268437927" symbol="tim_callback"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="35" lineNum="101" parent="globals/SvenskKlassikerView" pc="268437947" symbol="tim_callback"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="35" lineNum="105" parent="globals/SvenskKlassikerView" pc="268437977" symbol="tim_callback"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="36" lineNum="110" parent="globals/SvenskKlassikerView" pc="268437994" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="36" lineNum="111" parent="globals/SvenskKlassikerView" pc="268437998" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="36" lineNum="112" parent="globals/SvenskKlassikerView" pc="268438023" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="36" lineNum="113" parent="globals/SvenskKlassikerView" pc="268438048" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="36" lineNum="114" parent="globals/SvenskKlassikerView" pc="268438079" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="36" lineNum="115" parent="globals/SvenskKlassikerView" pc="268438104" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="36" lineNum="117" parent="globals/SvenskKlassikerView" pc="268438126" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="36" lineNum="118" parent="globals/SvenskKlassikerView" pc="268438162" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="36" lineNum="119" parent="globals/SvenskKlassikerView" pc="268438187" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="36" lineNum="120" parent="globals/SvenskKlassikerView" pc="268438212" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="36" lineNum="123" parent="globals/SvenskKlassikerView" pc="268438269" symbol="onLayout"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="37" lineNum="128" parent="globals/SvenskKlassikerView" pc="268438298" symbol="start_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="37" lineNum="129" parent="globals/SvenskKlassikerView" pc="268438302" symbol="start_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="37" lineNum="130" parent="globals/SvenskKlassikerView" pc="268438327" symbol="start_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="37" lineNum="131" parent="globals/SvenskKlassikerView" pc="268438346" symbol="start_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="37" lineNum="132" parent="globals/SvenskKlassikerView" pc="268438382" symbol="start_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="37" lineNum="133" parent="globals/SvenskKlassikerView" pc="268438415" symbol="start_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="37" lineNum="136" parent="globals/SvenskKlassikerView" pc="268438451" symbol="start_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="37" lineNum="137" parent="globals/SvenskKlassikerView" pc="268438487" symbol="start_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="37" lineNum="140" parent="globals/SvenskKlassikerView" pc="268438619" symbol="start_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="37" lineNum="141" parent="globals/SvenskKlassikerView" pc="268438655" symbol="start_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="146" parent="globals/SvenskKlassikerView" pc="268438746" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="147" parent="globals/SvenskKlassikerView" pc="268438750" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="148" parent="globals/SvenskKlassikerView" pc="268438786" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="149" parent="globals/SvenskKlassikerView" pc="268438796" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="150" parent="globals/SvenskKlassikerView" pc="268438871" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="151" parent="globals/SvenskKlassikerView" pc="268438925" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="152" parent="globals/SvenskKlassikerView" pc="268438960" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="153" parent="globals/SvenskKlassikerView" pc="268438996" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="154" parent="globals/SvenskKlassikerView" pc="268439080" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="155" parent="globals/SvenskKlassikerView" pc="268439106" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="156" parent="globals/SvenskKlassikerView" pc="268439142" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="159" parent="globals/SvenskKlassikerView" pc="268439217" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="160" parent="globals/SvenskKlassikerView" pc="268439253" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="163" parent="globals/SvenskKlassikerView" pc="268439310" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="164" parent="globals/SvenskKlassikerView" pc="268439327" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="166" parent="globals/SvenskKlassikerView" pc="268439363" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="173" parent="globals/SvenskKlassikerView" pc="268439537" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="174" parent="globals/SvenskKlassikerView" pc="268439548" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="176" parent="globals/SvenskKlassikerView" pc="268439584" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="177" parent="globals/SvenskKlassikerView" pc="268439609" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="178" parent="globals/SvenskKlassikerView" pc="268439628" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="179" parent="globals/SvenskKlassikerView" pc="268439635" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="180" parent="globals/SvenskKlassikerView" pc="268439642" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="181" parent="globals/SvenskKlassikerView" pc="268439649" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="38" lineNum="182" parent="globals/SvenskKlassikerView" pc="268439669" symbol="on_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="39" lineNum="186" parent="globals/SvenskKlassikerView" pc="268439696" symbol="end_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="39" lineNum="187" parent="globals/SvenskKlassikerView" pc="268439700" symbol="end_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="39" lineNum="189" parent="globals/SvenskKlassikerView" pc="268439736" symbol="end_scene"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="40" lineNum="193" parent="globals/SvenskKlassikerView" pc="268439803" symbol="screenTap"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="198" parent="globals/SvenskKlassikerView" pc="268439808" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="199" parent="globals/SvenskKlassikerView" pc="268439812" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="201" parent="globals/SvenskKlassikerView" pc="268439829" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="202" parent="globals/SvenskKlassikerView" pc="268439840" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="204" parent="globals/SvenskKlassikerView" pc="268439856" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="205" parent="globals/SvenskKlassikerView" pc="268439867" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="206" parent="globals/SvenskKlassikerView" pc="268439879" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="207" parent="globals/SvenskKlassikerView" pc="268439923" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="208" parent="globals/SvenskKlassikerView" pc="268439934" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="209" parent="globals/SvenskKlassikerView" pc="268439946" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="211" parent="globals/SvenskKlassikerView" pc="268439990" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="213" parent="globals/SvenskKlassikerView" pc="268440009" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="214" parent="globals/SvenskKlassikerView" pc="268440026" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="215" parent="globals/SvenskKlassikerView" pc="268440037" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="216" parent="globals/SvenskKlassikerView" pc="268440059" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="217" parent="globals/SvenskKlassikerView" pc="268440090" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="41" lineNum="219" parent="globals/SvenskKlassikerView" pc="268440112" symbol="screenSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="223" parent="globals/SvenskKlassikerView" pc="268440132" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="224" parent="globals/SvenskKlassikerView" pc="268440136" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="225" parent="globals/SvenskKlassikerView" pc="268440147" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="227" parent="globals/SvenskKlassikerView" pc="268440164" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="228" parent="globals/SvenskKlassikerView" pc="268440205" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="229" parent="globals/SvenskKlassikerView" pc="268440218" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="231" parent="globals/SvenskKlassikerView" pc="268440245" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="232" parent="globals/SvenskKlassikerView" pc="268440262" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="233" parent="globals/SvenskKlassikerView" pc="268440279" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="234" parent="globals/SvenskKlassikerView" pc="268440290" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="236" parent="globals/SvenskKlassikerView" pc="268440305" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="238" parent="globals/SvenskKlassikerView" pc="268440317" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="239" parent="globals/SvenskKlassikerView" pc="268440336" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="240" parent="globals/SvenskKlassikerView" pc="268440353" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="242" parent="globals/SvenskKlassikerView" pc="268440372" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="42" lineNum="243" parent="globals/SvenskKlassikerView" pc="268440383" symbol="btnPress"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="43" lineNum="250" parent="globals/SvenskKlassikerView" pc="268440405" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="43" lineNum="251" parent="globals/SvenskKlassikerView" pc="268440409" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="43" lineNum="253" parent="globals/SvenskKlassikerView" pc="268440445" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="43" lineNum="254" parent="globals/SvenskKlassikerView" pc="268440457" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="43" lineNum="255" parent="globals/SvenskKlassikerView" pc="268440474" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="43" lineNum="256" parent="globals/SvenskKlassikerView" pc="268440491" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="43" lineNum="257" parent="globals/SvenskKlassikerView" pc="268440508" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="43" lineNum="258" parent="globals/SvenskKlassikerView" pc="268440525" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="43" lineNum="259" parent="globals/SvenskKlassikerView" pc="268440542" symbol="onUpdate"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="44" lineNum="265" parent="globals/SvenskKlassikerView" pc="268440560" symbol="stopTimer"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="44" lineNum="266" parent="globals/SvenskKlassikerView" pc="268440564" symbol="stopTimer"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="44" lineNum="267" parent="globals/SvenskKlassikerView" pc="268440574" symbol="stopTimer"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="44" lineNum="268" parent="globals/SvenskKlassikerView" pc="268440581" symbol="stopTimer"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="45" lineNum="272" parent="globals/SvenskKlassikerView" pc="268440597" symbol="startTimer"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="45" lineNum="273" parent="globals/SvenskKlassikerView" pc="268440601" symbol="startTimer"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="45" lineNum="274" parent="globals/SvenskKlassikerView" pc="268440611" symbol="startTimer"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="45" lineNum="275" parent="globals/SvenskKlassikerView" pc="268440618" symbol="startTimer"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="46" lineNum="16" parent="globals/SvenskKlassikerView" pc="268442410" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="46" lineNum="17" parent="globals/SvenskKlassikerView" pc="268442428" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="46" lineNum="29" parent="globals/SvenskKlassikerView" pc="268442750" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerView.mc" id="46" lineNum="16" parent="globals/SvenskKlassikerView" pc="268442410" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="48" lineNum="7" parent="globals/SvenskKlassikerApp" pc="268440657" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="48" lineNum="8" parent="globals/SvenskKlassikerApp" pc="268440661" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="49" lineNum="12" parent="globals/SvenskKlassikerApp" pc="268440680" symbol="onStart"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="50" lineNum="16" parent="globals/SvenskKlassikerApp" pc="268440685" symbol="onStop"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="51" lineNum="20" parent="globals/SvenskKlassikerApp" pc="268440690" symbol="getInitialView"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="51" lineNum="21" parent="globals/SvenskKlassikerApp" pc="268440694" symbol="getInitialView"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="51" lineNum="22" parent="globals/SvenskKlassikerApp" pc="268440731" symbol="getInitialView"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="51" lineNum="23" parent="globals/SvenskKlassikerApp" pc="268440755" symbol="getInitialView"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="52" lineNum="5" parent="globals/SvenskKlassikerApp" pc="268442207" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="52" lineNum="5" parent="globals/SvenskKlassikerApp" pc="268442207" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="53" lineNum="30" parent="globals" pc="268440805" symbol="getApp"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerApp.mc" id="53" lineNum="31" parent="globals" pc="268440817" symbol="getApp"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="55" lineNum="8" parent="globals/SvenskKlassikerStartDelegate" pc="268440834" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="55" lineNum="9" parent="globals/SvenskKlassikerStartDelegate" pc="268440838" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="55" lineNum="10" parent="globals/SvenskKlassikerStartDelegate" pc="268440856" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="55" lineNum="11" parent="globals/SvenskKlassikerStartDelegate" pc="268440866" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="55" lineNum="12" parent="globals/SvenskKlassikerStartDelegate" pc="268440899" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="55" lineNum="13" parent="globals/SvenskKlassikerStartDelegate" pc="268440929" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="55" lineNum="14" parent="globals/SvenskKlassikerStartDelegate" pc="268440936" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="55" lineNum="15" parent="globals/SvenskKlassikerStartDelegate" pc="268440975" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="55" lineNum="17" parent="globals/SvenskKlassikerStartDelegate" pc="268441019" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="55" lineNum="20" parent="globals/SvenskKlassikerStartDelegate" pc="268441057" symbol="initialize"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="56" lineNum="23" parent="globals/SvenskKlassikerStartDelegate" pc="268441089" symbol="getWorkoutFromY"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="56" lineNum="24" parent="globals/SvenskKlassikerStartDelegate" pc="268441093" symbol="getWorkoutFromY"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="56" lineNum="25" parent="globals/SvenskKlassikerStartDelegate" pc="268441118" symbol="getWorkoutFromY"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="56" lineNum="26" parent="globals/SvenskKlassikerStartDelegate" pc="268441118" symbol="getWorkoutFromY"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="56" lineNum="27" parent="globals/SvenskKlassikerStartDelegate" pc="268441148" symbol="getWorkoutFromY"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="56" lineNum="28" parent="globals/SvenskKlassikerStartDelegate" pc="268441179" symbol="getWorkoutFromY"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="56" lineNum="29" parent="globals/SvenskKlassikerStartDelegate" pc="268441187" symbol="getWorkoutFromY"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="56" lineNum="33" parent="globals/SvenskKlassikerStartDelegate" pc="268441206" symbol="getWorkoutFromY"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="57" lineNum="36" parent="globals/SvenskKlassikerStartDelegate" pc="268441210" symbol="onTap"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="57" lineNum="37" parent="globals/SvenskKlassikerStartDelegate" pc="268441214" symbol="onTap"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="57" lineNum="38" parent="globals/SvenskKlassikerStartDelegate" pc="268441233" symbol="onTap"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="57" lineNum="39" parent="globals/SvenskKlassikerStartDelegate" pc="268441279" symbol="onTap"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="58" lineNum="43" parent="globals/SvenskKlassikerStartDelegate" pc="268441334" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="58" lineNum="44" parent="globals/SvenskKlassikerStartDelegate" pc="268441338" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="58" lineNum="45" parent="globals/SvenskKlassikerStartDelegate" pc="268441351" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="58" lineNum="46" parent="globals/SvenskKlassikerStartDelegate" pc="268441362" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="58" lineNum="47" parent="globals/SvenskKlassikerStartDelegate" pc="268441381" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="58" lineNum="48" parent="globals/SvenskKlassikerStartDelegate" pc="268441398" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="58" lineNum="50" parent="globals/SvenskKlassikerStartDelegate" pc="268441414" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="58" lineNum="51" parent="globals/SvenskKlassikerStartDelegate" pc="268441452" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="58" lineNum="52" parent="globals/SvenskKlassikerStartDelegate" pc="268441463" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="58" lineNum="53" parent="globals/SvenskKlassikerStartDelegate" pc="268441482" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="58" lineNum="54" parent="globals/SvenskKlassikerStartDelegate" pc="268441516" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="58" lineNum="56" parent="globals/SvenskKlassikerStartDelegate" pc="268441542" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="58" lineNum="58" parent="globals/SvenskKlassikerStartDelegate" pc="268441580" symbol="onSwipe"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="59" lineNum="61" parent="globals/SvenskKlassikerStartDelegate" pc="268441584" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="59" lineNum="62" parent="globals/SvenskKlassikerStartDelegate" pc="268441588" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="59" lineNum="63" parent="globals/SvenskKlassikerStartDelegate" pc="268441672" symbol="onMenu"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="60" lineNum="4" parent="globals/SvenskKlassikerStartDelegate" pc="268442391" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\carlw\\AppData\\Roaming\\Garmin\\ConnectIQ\\Sdks\\connectiq-sdk-win-4.1.5-2022-08-03-6e17bf167\\samples\\SvenskKlassiker\\source\\SvenskKlassikerStartDelegate.mc" id="60" lineNum="4" parent="globals/SvenskKlassikerStartDelegate" pc="268442391" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="62" lineNum="2" parent="globals/Rez/Drawables" pc="268442182" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="63" lineNum="11" parent="globals/Rez/Fonts" pc="268442203" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="64" lineNum="13" parent="globals/Rez/JsonData" pc="268442205" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="65" lineNum="28" parent="globals/Rez/Layouts" pc="268441676" symbol="MainLayout"/>
+<entry filename="Rez" id="65" lineNum="30" parent="globals/Rez/Layouts" pc="268441688" symbol="MainLayout"/>
+<entry filename="Rez" id="65" lineNum="32" parent="globals/Rez/Layouts" pc="268441821" symbol="MainLayout"/>
+<entry filename="Rez" id="66" lineNum="21" parent="globals/Rez/Layouts" pc="268442204" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="67" lineNum="46" parent="globals/Rez/Menus/MainMenu" pc="268441839" symbol="initialize"/>
+<entry filename="Rez" id="67" lineNum="47" parent="globals/Rez/Menus/MainMenu" pc="268441843" symbol="initialize"/>
+<entry filename="Rez" id="67" lineNum="48" parent="globals/Rez/Menus/MainMenu" pc="268441861" symbol="initialize"/>
+<entry filename="Rez" id="67" lineNum="49" parent="globals/Rez/Menus/MainMenu" pc="268441917" symbol="initialize"/>
+<entry filename="Rez" id="68" lineNum="44" parent="globals/Rez/Menus/MainMenu" pc="268442184" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="68" lineNum="44" parent="globals/Rez/Menus/MainMenu" pc="268442184" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="69" lineNum="37" parent="globals/Rez/Menus" pc="268442183" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="70" lineNum="55" parent="globals/Rez/Strings" pc="268442206" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="71" lineNum="1" parent="globals/Rez" pc="268442158" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="71" lineNum="1" parent="globals/Rez" pc="268442158" symbol="&lt;init&gt;"/>
 </pcToLineNum>
 <symbolTable>
-<entry field="true" id="51" symbol="jsonFile"/>
 <entry id="8388639" module="true" symbol="Graphics"/>
 <entry id="8389346" symbol="text"/>
-<entry id="38" method="true" symbol="screenTap"/>
-<entry id="32" method="true" symbol="prev_workout"/>
+<entry id="69" method="true" symbol="screenTap"/>
+<entry field="true" id="46" symbol="curr_workout"/>
+<entry id="63" method="true" symbol="prev_workout"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry field="true" id="42" symbol="images"/>
 <entry id="4" module="true" symbol="globals/Rez/Menus"/>
-<entry id="11" object="true" symbol="SvenskKlassikerStartView"/>
-<entry field="true" id="28" symbol="paused"/>
-<entry id="36" method="true" symbol="on_scene"/>
-<entry id="50" method="true" symbol="MainLayout"/>
-<entry field="true" id="30" symbol="status_timer"/>
-<entry field="true" id="21" symbol="current_state"/>
-<entry field="true" id="29" symbol="workout"/>
-<entry field="true" id="47" symbol="play_img"/>
+<entry id="18" method="true" symbol="change_workout"/>
+<entry id="13" object="true" symbol="SvenskKlassikerStartView"/>
+<entry field="true" id="26" symbol="skiing"/>
+<entry field="true" id="60" symbol="paused"/>
+<entry id="67" method="true" symbol="on_scene"/>
+<entry id="32" method="true" symbol="MainLayout"/>
+<entry field="true" id="61" symbol="status_timer"/>
+<entry field="true" id="53" symbol="current_state"/>
+<entry field="true" id="28" symbol="swim"/>
+<entry field="true" id="8388938" symbol="month"/>
+<entry field="true" id="17" symbol="workout"/>
+<entry field="true" id="41" symbol="event_image"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="25" symbol="play_img"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-<entry field="true" id="55" symbol="AppName"/>
-<entry field="true" id="24" symbol="time_height"/>
+<entry field="true" id="34" symbol="vatternrundan"/>
+<entry field="true" id="40" symbol="AppName"/>
+<entry field="true" id="56" symbol="time_height"/>
+<entry field="true" id="19" symbol="events"/>
 <entry id="8" module="true" symbol="globals/Rez/Strings"/>
 <entry id="8389080" method="true" symbol="onMenu"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
-<entry field="true" id="22" symbol="num_reps"/>
-<entry id="33" method="true" symbol="next_workout"/>
+<entry field="true" id="54" symbol="num_reps"/>
+<entry id="64" method="true" symbol="next_workout"/>
+<entry id="10" object="true" symbol="SvenskKlassikerEventsDelegate"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
-<entry field="true" id="25" symbol="wo_height"/>
-<entry field="true" id="17" symbol="&lt;globals/SvenskKlassikerView/&lt;&gt;_count1&gt;"/>
+<entry field="true" id="57" symbol="wo_height"/>
+<entry field="true" id="50" symbol="&lt;globals/SvenskKlassikerView/&lt;&gt;_count1&gt;"/>
+<entry field="true" id="8389104" symbol="event"/>
 <entry id="2" module="true" symbol="globals/Rez"/>
-<entry field="true" id="54" symbol="prompt"/>
+<entry field="true" id="39" symbol="prompt"/>
 <entry id="8389124" method="true" symbol="onUpdate"/>
 <entry field="true" id="8389065" symbol="locY"/>
 <entry field="true" id="8389064" symbol="locX"/>
-<entry field="true" id="56" symbol="wo"/>
 <entry id="8389553" method="true" symbol="onKeyPressed"/>
+<entry field="true" id="21" symbol="event_nmbr"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389348" symbol="font"/>
-<entry id="59" symbol="item_2"/>
-<entry id="58" symbol="item_1"/>
-<entry id="46" module="true" symbol="Menus"/>
+<entry id="75" symbol="item_2"/>
+<entry id="74" symbol="item_1"/>
+<entry id="24" module="true" symbol="Menus"/>
 <entry id="8389275" method="true" symbol="getApp"/>
+<entry field="true" id="29" symbol="run_img"/>
 <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
-<entry field="true" id="15" symbol="vibrateData"/>
+<entry field="true" id="48" symbol="vibrateData"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
-<entry field="true" id="20" symbol="numTimes"/>
-<entry field="true" id="57" symbol="time"/>
+<entry field="true" id="52" symbol="numTimes"/>
+<entry field="true" id="44" symbol="time"/>
 <entry id="8389349" symbol="justification"/>
 <entry id="8389098" method="true" symbol="onTap"/>
-<entry id="44" method="true" symbol="getWorkoutFromY"/>
+<entry id="43" method="true" symbol="change_event"/>
+<entry id="47" method="true" symbol="getWorkoutFromY"/>
 <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
-<entry id="14" object="true" symbol="SvenskKlassikerStartDelegate"/>
+<entry id="16" object="true" symbol="SvenskKlassikerStartDelegate"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-<entry id="35" method="true" symbol="start_scene"/>
-<entry field="true" id="23" symbol="curr_rep"/>
-<entry id="49" object="true" symbol="MainMenu"/>
-<entry field="true" id="16" symbol="&lt;globals/SvenskKlassikerView/&lt;&gt;_timer1&gt;"/>
-<entry id="13" object="true" symbol="SvenskKlassikerApp"/>
-<entry id="12" object="true" symbol="SvenskKlassikerView"/>
+<entry id="66" method="true" symbol="start_scene"/>
+<entry field="true" id="55" symbol="curr_rep"/>
+<entry field="true" id="35" symbol="swiming"/>
+<entry field="true" id="36" symbol="run"/>
+<entry id="31" object="true" symbol="MainMenu"/>
+<entry field="true" id="49" symbol="&lt;globals/SvenskKlassikerView/&lt;&gt;_timer1&gt;"/>
+<entry id="15" object="true" symbol="SvenskKlassikerApp"/>
+<entry id="14" object="true" symbol="SvenskKlassikerView"/>
 <entry id="8389960" object="true" symbol="Workout"/>
 <entry id="8388644" module="true" symbol="System"/>
-<entry field="true" id="26" symbol="next_wo_height"/>
+<entry field="true" id="58" symbol="next_wo_height"/>
+<entry id="8388645" module="true" symbol="Time"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
-<entry field="true" id="19" symbol="workouts"/>
+<entry field="true" id="45" symbol="workouts"/>
+<entry field="true" id="22" symbol="event_data"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
-<entry field="true" id="48" symbol="LauncherIcon"/>
+<entry field="true" id="30" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
-<entry id="42" method="true" symbol="startTimer"/>
-<entry id="41" method="true" symbol="stopTimer"/>
+<entry id="73" method="true" symbol="startTimer"/>
+<entry id="72" method="true" symbol="stopTimer"/>
 <entry id="8389350" module="true" symbol="globals"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="27" symbol="bike"/>
 <entry id="8388702" method="true" symbol="initialize"/>
-<entry id="39" method="true" symbol="screenSwipe"/>
+<entry id="70" method="true" symbol="screenSwipe"/>
 <entry id="8389279" method="true" symbol="onStart"/>
-<entry id="37" method="true" symbol="end_scene"/>
-<entry field="true" id="43" symbol="view"/>
+<entry id="68" method="true" symbol="end_scene"/>
+<entry field="true" id="20" symbol="view"/>
 <entry field="true" id="8388892" symbol="name"/>
-<entry field="true" id="18" symbol="currWorkout"/>
+<entry field="true" id="51" symbol="currWorkout"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389109" method="true" symbol="onMenuItem"/>
 <entry id="8389347" symbol="color"/>
-<entry id="34" method="true" symbol="tim_callback"/>
-<entry field="true" id="31" symbol="play_image"/>
-<entry id="40" method="true" symbol="btnPress"/>
+<entry field="true" id="8388939" symbol="day"/>
+<entry id="65" method="true" symbol="tim_callback"/>
+<entry field="true" id="62" symbol="play_image"/>
+<entry id="71" method="true" symbol="btnPress"/>
 <entry id="9" object="true" symbol="SvenskKlassikerMenuDelegate"/>
+<entry field="true" id="8388940" symbol="year"/>
 <entry id="8388646" module="true" object="true" symbol="Timer"/>
-<entry id="45" module="true" symbol="Layouts"/>
-<entry field="true" id="27" symbol="horizontal_center"/>
+<entry id="23" module="true" symbol="Layouts"/>
+<entry field="true" id="59" symbol="horizontal_center"/>
 <entry id="8388636" module="true" symbol="Attention"/>
+<entry id="12" object="true" symbol="SvenskKlassikerEventsView"/>
 <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
 <entry id="8388635" module="true" symbol="Application"/>
-<entry id="10" object="true" symbol="SvenskKlassikerDelegate"/>
-<entry field="true" id="53" symbol="menu_label_2"/>
-<entry field="true" id="52" symbol="menu_label_1"/>
+<entry field="true" id="33" symbol="vasa"/>
+<entry id="11" object="true" symbol="SvenskKlassikerDelegate"/>
+<entry field="true" id="38" symbol="menu_label_2"/>
+<entry field="true" id="37" symbol="menu_label_1"/>
 <entry id="8389101" method="true" symbol="onSwipe"/>
 </symbolTable>
 <localVars>
 <entry arg="true" endPc="268435553" name="item" stackId="1" startPc="268435479"/>
-<entry arg="true" endPc="268435586" name="view_" stackId="1" startPc="268435554"/>
-<entry endPc="268435623" name="coords" stackId="2" startPc="268435591"/>
-<entry arg="true" endPc="268435624" name="evt" stackId="1" startPc="268435587"/>
-<entry arg="true" endPc="268435658" name="clickEvent" stackId="1" startPc="268435625"/>
-<entry arg="true" endPc="268435695" name="swipeEvent" stackId="1" startPc="268435659"/>
-<entry arg="true" endPc="268435819" name="dc" stackId="1" startPc="268435815"/>
-<entry endPc="268436280" name="i" stackId="4" startPc="268435928"/>
-<entry endPc="268436280" name="height" stackId="2" startPc="268435824"/>
-<entry endPc="268436280" name="width" stackId="3" startPc="268435824"/>
-<entry arg="true" endPc="268436281" name="dc" stackId="1" startPc="268435820"/>
-<entry arg="true" endPc="268436306" name="name" stackId="1" startPc="268436282"/>
-<entry arg="true" endPc="268436306" name="time" stackId="2" startPc="268436282"/>
-<entry endPc="268436425" name="timer1" stackId="2" startPc="268436311"/>
-<entry arg="true" endPc="268436426" name="workout_" stackId="1" startPc="268436307"/>
-<entry endPc="268436836" name="timer" stackId="1" startPc="268436783"/>
-<entry endPc="268437333" name="name" stackId="3" startPc="268437240"/>
-<entry endPc="268437333" name="time" stackId="4" startPc="268437240"/>
-<entry endPc="268437346" name="i" stackId="2" startPc="268437240"/>
-<entry arg="true" endPc="268437375" name="dc" stackId="1" startPc="268437072"/>
-<entry endPc="268437822" name="startBtnY" stackId="3" startPc="268437380"/>
-<entry endPc="268437822" name="startBtnX" stackId="2" startPc="268437380"/>
-<entry arg="true" endPc="268437823" name="dc" stackId="1" startPc="268437376"/>
-<entry endPc="268438769" name="lineLength" stackId="5" startPc="268438626"/>
-<entry endPc="268438769" name="linewidth" stackId="6" startPc="268438626"/>
-<entry endPc="268438769" name="lineBetween" stackId="7" startPc="268438626"/>
-<entry endPc="268438769" name="startBtnY" stackId="4" startPc="268438626"/>
-<entry endPc="268438769" name="startBtnX" stackId="3" startPc="268438626"/>
-<entry endPc="268438772" name="string" stackId="2" startPc="268437828"/>
-<entry arg="true" endPc="268438773" name="dc" stackId="1" startPc="268437824"/>
-<entry arg="true" endPc="268438880" name="dc" stackId="1" startPc="268438774"/>
-<entry arg="true" endPc="268438885" name="coords" stackId="1" startPc="268438881"/>
-<entry arg="true" endPc="268439209" name="dir" stackId="1" startPc="268438886"/>
-<entry arg="true" endPc="268439482" name="btn" stackId="1" startPc="268439210"/>
-<entry arg="true" endPc="268439637" name="dc" stackId="1" startPc="268439483"/>
-<entry endPc="268439673" name="timer" stackId="1" startPc="268439642"/>
-<entry endPc="268439733" name="timer" stackId="1" startPc="268439679"/>
-<entry arg="true" endPc="268439762" name="state" stackId="1" startPc="268439758"/>
-<entry arg="true" endPc="268439767" name="state" stackId="1" startPc="268439763"/>
-<entry endPc="268439881" name="view" stackId="2" startPc="268439772"/>
-<entry endPc="268439881" name="array" stackId="1" startPc="268439772"/>
-<entry endPc="268440114" name="n" stackId="4" startPc="268440071"/>
-<entry endPc="268440139" name="duration" stackId="3" startPc="268440025"/>
-<entry endPc="268440152" name="i" stackId="2" startPc="268440025"/>
-<entry arg="true" endPc="268440175" name="view_" stackId="1" startPc="268439912"/>
-<entry endPc="268440279" name="h" stackId="4" startPc="268440235"/>
-<entry endPc="268440295" name="height" stackId="2" startPc="268440180"/>
-<entry endPc="268440295" name="i" stackId="3" startPc="268440180"/>
-<entry arg="true" endPc="268440296" name="ycoord" stackId="1" startPc="268440176"/>
-<entry endPc="268440419" name="view" stackId="3" startPc="268440301"/>
-<entry endPc="268440419" name="ycoords" stackId="2" startPc="268440301"/>
-<entry arg="true" endPc="268440420" name="evt" stackId="1" startPc="268440297"/>
-<entry endPc="268440674" name="rez_cmp_local_text_2361354171" stackId="2" startPc="268440525"/>
-<entry arg="true" endPc="268440675" name="dc" stackId="1" startPc="268440513"/>
+<entry arg="true" endPc="268435685" name="view_" stackId="1" startPc="268435554"/>
+<entry endPc="268435784" name="view" stackId="2" startPc="268435690"/>
+<entry arg="true" endPc="268435785" name="evt" stackId="1" startPc="268435686"/>
+<entry endPc="268435990" name="dir" stackId="2" startPc="268435790"/>
+<entry arg="true" endPc="268435991" name="swipeEvent" stackId="1" startPc="268435786"/>
+<entry arg="true" endPc="268436116" name="view_" stackId="1" startPc="268436084"/>
+<entry endPc="268436153" name="coords" stackId="2" startPc="268436121"/>
+<entry arg="true" endPc="268436154" name="evt" stackId="1" startPc="268436117"/>
+<entry arg="true" endPc="268436188" name="clickEvent" stackId="1" startPc="268436155"/>
+<entry arg="true" endPc="268436225" name="swipeEvent" stackId="1" startPc="268436189"/>
+<entry arg="true" endPc="268436420" name="event_nmbr" stackId="1" startPc="268436345"/>
+<entry arg="true" endPc="268436425" name="dc" stackId="1" startPc="268436421"/>
+<entry endPc="268436880" name="width" stackId="3" startPc="268436430"/>
+<entry endPc="268436880" name="date" stackId="8" startPc="268436430"/>
+<entry endPc="268436880" name="month" stackId="5" startPc="268436430"/>
+<entry endPc="268436880" name="year" stackId="4" startPc="268436430"/>
+<entry endPc="268436880" name="today" stackId="9" startPc="268436430"/>
+<entry endPc="268436880" name="date_opt" stackId="7" startPc="268436430"/>
+<entry endPc="268436880" name="day" stackId="6" startPc="268436430"/>
+<entry endPc="268436880" name="diff" stackId="10" startPc="268436430"/>
+<entry endPc="268436880" name="height" stackId="2" startPc="268436430"/>
+<entry arg="true" endPc="268436881" name="dc" stackId="1" startPc="268436426"/>
+<entry arg="true" endPc="268436913" name="dc" stackId="1" startPc="268436909"/>
+<entry endPc="268437171" name="height" stackId="2" startPc="268436918"/>
+<entry endPc="268437171" name="width" stackId="3" startPc="268436918"/>
+<entry arg="true" endPc="268437172" name="dc" stackId="1" startPc="268436914"/>
+<entry arg="true" endPc="268437203" name="workout" stackId="1" startPc="268437173"/>
+<entry arg="true" endPc="268437228" name="name" stackId="1" startPc="268437204"/>
+<entry arg="true" endPc="268437228" name="time" stackId="2" startPc="268437204"/>
+<entry endPc="268437347" name="timer1" stackId="2" startPc="268437233"/>
+<entry arg="true" endPc="268437348" name="workout_" stackId="1" startPc="268437229"/>
+<entry endPc="268437758" name="timer" stackId="1" startPc="268437705"/>
+<entry endPc="268438255" name="name" stackId="3" startPc="268438162"/>
+<entry endPc="268438255" name="time" stackId="4" startPc="268438162"/>
+<entry endPc="268438268" name="i" stackId="2" startPc="268438162"/>
+<entry arg="true" endPc="268438297" name="dc" stackId="1" startPc="268437994"/>
+<entry endPc="268438744" name="startBtnY" stackId="3" startPc="268438302"/>
+<entry endPc="268438744" name="startBtnX" stackId="2" startPc="268438302"/>
+<entry arg="true" endPc="268438745" name="dc" stackId="1" startPc="268438298"/>
+<entry endPc="268439691" name="lineLength" stackId="5" startPc="268439548"/>
+<entry endPc="268439691" name="linewidth" stackId="6" startPc="268439548"/>
+<entry endPc="268439691" name="lineBetween" stackId="7" startPc="268439548"/>
+<entry endPc="268439691" name="startBtnY" stackId="4" startPc="268439548"/>
+<entry endPc="268439691" name="startBtnX" stackId="3" startPc="268439548"/>
+<entry endPc="268439694" name="string" stackId="2" startPc="268438750"/>
+<entry arg="true" endPc="268439695" name="dc" stackId="1" startPc="268438746"/>
+<entry arg="true" endPc="268439802" name="dc" stackId="1" startPc="268439696"/>
+<entry arg="true" endPc="268439807" name="coords" stackId="1" startPc="268439803"/>
+<entry arg="true" endPc="268440131" name="dir" stackId="1" startPc="268439808"/>
+<entry arg="true" endPc="268440404" name="btn" stackId="1" startPc="268440132"/>
+<entry arg="true" endPc="268440559" name="dc" stackId="1" startPc="268440405"/>
+<entry endPc="268440595" name="timer" stackId="1" startPc="268440564"/>
+<entry endPc="268440655" name="timer" stackId="1" startPc="268440601"/>
+<entry arg="true" endPc="268440684" name="state" stackId="1" startPc="268440680"/>
+<entry arg="true" endPc="268440689" name="state" stackId="1" startPc="268440685"/>
+<entry endPc="268440803" name="view" stackId="2" startPc="268440694"/>
+<entry endPc="268440803" name="array" stackId="1" startPc="268440694"/>
+<entry endPc="268441018" name="n" stackId="5" startPc="268440975"/>
+<entry endPc="268441043" name="duration" stackId="4" startPc="268440929"/>
+<entry endPc="268441056" name="i" stackId="3" startPc="268440929"/>
+<entry arg="true" endPc="268441088" name="event_data" stackId="2" startPc="268440834"/>
+<entry arg="true" endPc="268441088" name="view_" stackId="1" startPc="268440834"/>
+<entry endPc="268441192" name="h" stackId="4" startPc="268441148"/>
+<entry endPc="268441208" name="height" stackId="2" startPc="268441093"/>
+<entry endPc="268441208" name="i" stackId="3" startPc="268441093"/>
+<entry arg="true" endPc="268441209" name="ycoord" stackId="1" startPc="268441089"/>
+<entry endPc="268441332" name="view" stackId="3" startPc="268441214"/>
+<entry endPc="268441332" name="ycoords" stackId="2" startPc="268441214"/>
+<entry arg="true" endPc="268441333" name="evt" stackId="1" startPc="268441210"/>
+<entry endPc="268441582" name="dir" stackId="2" startPc="268441338"/>
+<entry arg="true" endPc="268441583" name="swipeEvent" stackId="1" startPc="268441334"/>
+<entry endPc="268441837" name="rez_cmp_local_text_2522317685" stackId="2" startPc="268441688"/>
+<entry arg="true" endPc="268441838" name="dc" stackId="1" startPc="268441676"/>
 </localVars>
 <annotations>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="play_img"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="skiing"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="bike"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="swim"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="run_img"/>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
-<annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="jsonFile"/>
+<annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="vasa"/>
+<annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="vatternrundan"/>
+<annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="swiming"/>
+<annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="run"/>
+<annotationEntry annotation="initialized" class="JsonData" module="globals/Rez" symbol="events"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
@@ -408,21 +524,23 @@
 </annotations>
 <dataEntryOffsetMappings>
 <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
-<dataEntry label="globals/SvenskKlassikerMenuDelegate" offset="198" parentId="globals" symbolId="SvenskKlassikerMenuDelegate" type="class"/>
-<dataEntry label="globals/SvenskKlassikerView" offset="253" parentId="globals" symbolId="SvenskKlassikerView" type="class"/>
-<dataEntry label="globals/SvenskKlassikerStartDelegate" offset="540" parentId="globals" symbolId="SvenskKlassikerStartDelegate" type="class"/>
-<dataEntry label="globals/SvenskKlassikerApp" offset="627" parentId="globals" symbolId="SvenskKlassikerApp" type="class"/>
-<dataEntry label="globals/Rez" offset="698" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry label="globals/Rez/Drawables" offset="777" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Menus" offset="824" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry label="globals/Rez/Menus/MainMenu" offset="863" parentId="Menus" symbolId="MainMenu" type="class"/>
-<dataEntry label="globals/Rez/Fonts" offset="910" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="941" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="980" parentId="Rez" symbolId="JsonData" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="1019" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/SvenskKlassikerStartView" offset="1082" parentId="globals" symbolId="SvenskKlassikerStartView" type="class"/>
-<dataEntry label="globals/Workout" offset="1153" parentId="globals" symbolId="Workout" type="class"/>
-<dataEntry label="globals/SvenskKlassikerDelegate" offset="1216" parentId="globals" symbolId="SvenskKlassikerDelegate" type="class"/>
+<dataEntry label="globals/SvenskKlassikerStartView" offset="214" parentId="globals" symbolId="SvenskKlassikerStartView" type="class"/>
+<dataEntry label="globals/SvenskKlassikerEventsDelegate" offset="293" parentId="globals" symbolId="SvenskKlassikerEventsDelegate" type="class"/>
+<dataEntry label="globals/SvenskKlassikerMenuDelegate" offset="396" parentId="globals" symbolId="SvenskKlassikerMenuDelegate" type="class"/>
+<dataEntry label="globals/Rez" offset="451" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="530" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="609" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Menus/MainMenu" offset="648" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry label="globals/Rez/Fonts" offset="695" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="726" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="765" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="836" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/SvenskKlassikerApp" offset="899" parentId="globals" symbolId="SvenskKlassikerApp" type="class"/>
+<dataEntry label="globals/SvenskKlassikerDelegate" offset="970" parentId="globals" symbolId="SvenskKlassikerDelegate" type="class"/>
+<dataEntry label="globals/SvenskKlassikerEventsView" offset="1057" parentId="globals" symbolId="SvenskKlassikerEventsView" type="class"/>
+<dataEntry label="globals/Workout" offset="1160" parentId="globals" symbolId="Workout" type="class"/>
+<dataEntry label="globals/SvenskKlassikerStartDelegate" offset="1223" parentId="globals" symbolId="SvenskKlassikerStartDelegate" type="class"/>
+<dataEntry label="globals/SvenskKlassikerView" offset="1326" parentId="globals" symbolId="SvenskKlassikerView" type="class"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="SvenskKlassikerMenuDelegate" startPc="268435456">
@@ -432,174 +550,219 @@
 <param id="item"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268440830" name="&lt;init&gt;" parent="SvenskKlassikerMenuDelegate" startPc="268440812">
+<functionEntry accessMode="protected" endPc="268442157" name="&lt;init&gt;" parent="SvenskKlassikerMenuDelegate" startPc="268442139">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435586" name="initialize" parent="SvenskKlassikerDelegate" startPc="268435554">
+<functionEntry accessMode="public" endPc="268435685" name="initialize" parent="SvenskKlassikerEventsDelegate" startPc="268435554">
 <param id="view_"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435624" name="onTap" parent="SvenskKlassikerDelegate" startPc="268435587">
+<functionEntry accessMode="public" endPc="268435785" name="onTap" parent="SvenskKlassikerEventsDelegate" startPc="268435686">
 <param id="evt"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435658" name="onKeyPressed" parent="SvenskKlassikerDelegate" startPc="268435625">
-<param id="clickEvent"/>
-<documentation/>
-</functionEntry>
-<functionEntry accessMode="public" endPc="268435695" name="onSwipe" parent="SvenskKlassikerDelegate" startPc="268435659">
+<functionEntry accessMode="public" endPc="268435991" name="onSwipe" parent="SvenskKlassikerEventsDelegate" startPc="268435786">
 <param id="swipeEvent"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435787" name="onMenu" parent="SvenskKlassikerDelegate" startPc="268435696">
+<functionEntry accessMode="public" endPc="268436083" name="onMenu" parent="SvenskKlassikerEventsDelegate" startPc="268435992">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441311" name="&lt;init&gt;" parent="SvenskKlassikerDelegate" startPc="268441293">
+<functionEntry accessMode="protected" endPc="268442138" name="&lt;init&gt;" parent="SvenskKlassikerEventsDelegate" startPc="268441994">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435814" name="initialize" parent="SvenskKlassikerStartView" startPc="268435788">
+<functionEntry accessMode="public" endPc="268436116" name="initialize" parent="SvenskKlassikerDelegate" startPc="268436084">
+<param id="view_"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436154" name="onTap" parent="SvenskKlassikerDelegate" startPc="268436117">
+<param id="evt"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436188" name="onKeyPressed" parent="SvenskKlassikerDelegate" startPc="268436155">
+<param id="clickEvent"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436225" name="onSwipe" parent="SvenskKlassikerDelegate" startPc="268436189">
+<param id="swipeEvent"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436317" name="onMenu" parent="SvenskKlassikerDelegate" startPc="268436226">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268442244" name="&lt;init&gt;" parent="SvenskKlassikerDelegate" startPc="268442226">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436344" name="initialize" parent="SvenskKlassikerEventsView" startPc="268436318">
 <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435819" name="onLayout" parent="SvenskKlassikerStartView" startPc="268435815">
+<functionEntry accessMode="public" endPc="268436420" name="change_event" parent="SvenskKlassikerEventsView" startPc="268436345">
+<param id="event_nmbr"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436425" name="onLayout" parent="SvenskKlassikerEventsView" startPc="268436421">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Load your resources here<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436281" name="onUpdate" parent="SvenskKlassikerStartView" startPc="268435820">
+<functionEntry accessMode="public" endPc="268436881" name="onUpdate" parent="SvenskKlassikerEventsView" startPc="268436426">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Update the view<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441291" name="&lt;init&gt;" parent="SvenskKlassikerStartView" startPc="268441273">
+<functionEntry accessMode="protected" endPc="268442389" name="&lt;init&gt;" parent="SvenskKlassikerEventsView" startPc="268442245">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436306" name="initialize" parent="Workout" startPc="268436282">
+<functionEntry accessMode="public" endPc="268436908" name="initialize" parent="SvenskKlassikerStartView" startPc="268436882">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436913" name="onLayout" parent="SvenskKlassikerStartView" startPc="268436909">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437172" name="onUpdate" parent="SvenskKlassikerStartView" startPc="268436914">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437203" name="change_workout" parent="SvenskKlassikerStartView" startPc="268437173">
+<param id="workout"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268441993" name="&lt;init&gt;" parent="SvenskKlassikerStartView" startPc="268441975">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437228" name="initialize" parent="Workout" startPc="268437204">
 <param id="name"/>
 <param id="time"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441292" name="&lt;init&gt;" parent="Workout" startPc="268441292">
+<functionEntry accessMode="protected" endPc="268442390" name="&lt;init&gt;" parent="Workout" startPc="268442390">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436426" name="initialize" parent="SvenskKlassikerView" startPc="268436307">
+<functionEntry accessMode="public" endPc="268437348" name="initialize" parent="SvenskKlassikerView" startPc="268437229">
 <param id="workout_"/>
 <documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436691" name="prev_workout" parent="SvenskKlassikerView" startPc="268436427">
+<functionEntry accessMode="public" endPc="268437613" name="prev_workout" parent="SvenskKlassikerView" startPc="268437349">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436921" name="next_workout" parent="SvenskKlassikerView" startPc="268436692">
+<functionEntry accessMode="public" endPc="268437843" name="next_workout" parent="SvenskKlassikerView" startPc="268437614">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437071" name="tim_callback" parent="SvenskKlassikerView" startPc="268436922">
+<functionEntry accessMode="public" endPc="268437993" name="tim_callback" parent="SvenskKlassikerView" startPc="268437844">
 <documentation><![CDATA[<div class="description"> Callback for timer 1<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437375" name="onLayout" parent="SvenskKlassikerView" startPc="268437072">
+<functionEntry accessMode="public" endPc="268438297" name="onLayout" parent="SvenskKlassikerView" startPc="268437994">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Load your resources here<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268437823" name="start_scene" parent="SvenskKlassikerView" startPc="268437376">
+<functionEntry accessMode="public" endPc="268438745" name="start_scene" parent="SvenskKlassikerView" startPc="268438298">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438773" name="on_scene" parent="SvenskKlassikerView" startPc="268437824">
+<functionEntry accessMode="public" endPc="268439695" name="on_scene" parent="SvenskKlassikerView" startPc="268438746">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438880" name="end_scene" parent="SvenskKlassikerView" startPc="268438774">
+<functionEntry accessMode="public" endPc="268439802" name="end_scene" parent="SvenskKlassikerView" startPc="268439696">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268438885" name="screenTap" parent="SvenskKlassikerView" startPc="268438881">
+<functionEntry accessMode="public" endPc="268439807" name="screenTap" parent="SvenskKlassikerView" startPc="268439803">
 <param id="coords"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439209" name="screenSwipe" parent="SvenskKlassikerView" startPc="268438886">
+<functionEntry accessMode="public" endPc="268440131" name="screenSwipe" parent="SvenskKlassikerView" startPc="268439808">
 <param id="dir"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439482" name="btnPress" parent="SvenskKlassikerView" startPc="268439210">
+<functionEntry accessMode="public" endPc="268440404" name="btnPress" parent="SvenskKlassikerView" startPc="268440132">
 <param id="btn"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439637" name="onUpdate" parent="SvenskKlassikerView" startPc="268439483">
+<functionEntry accessMode="public" endPc="268440559" name="onUpdate" parent="SvenskKlassikerView" startPc="268440405">
 <param id="dc"/>
 <documentation><![CDATA[<div class="description"> Update the view<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439674" name="stopTimer" parent="SvenskKlassikerView" startPc="268439638">
+<functionEntry accessMode="public" endPc="268440596" name="stopTimer" parent="SvenskKlassikerView" startPc="268440560">
 <documentation><![CDATA[<div class="description"> Stop the first timer<br/></div>]]></documentation>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439734" name="startTimer" parent="SvenskKlassikerView" startPc="268439675">
+<functionEntry accessMode="public" endPc="268440656" name="startTimer" parent="SvenskKlassikerView" startPc="268440597">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441185" name="&lt;init&gt;" parent="SvenskKlassikerView" startPc="268440831">
+<functionEntry accessMode="protected" endPc="268442764" name="&lt;init&gt;" parent="SvenskKlassikerView" startPc="268442410">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439757" name="initialize" parent="SvenskKlassikerApp" startPc="268439735">
+<functionEntry accessMode="public" endPc="268440679" name="initialize" parent="SvenskKlassikerApp" startPc="268440657">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439762" name="onStart" parent="SvenskKlassikerApp" startPc="268439758">
+<functionEntry accessMode="public" endPc="268440684" name="onStart" parent="SvenskKlassikerApp" startPc="268440680">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439767" name="onStop" parent="SvenskKlassikerApp" startPc="268439763">
+<functionEntry accessMode="public" endPc="268440689" name="onStop" parent="SvenskKlassikerApp" startPc="268440685">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439882" name="getInitialView" parent="SvenskKlassikerApp" startPc="268439768">
+<functionEntry accessMode="public" endPc="268440804" name="getInitialView" parent="SvenskKlassikerApp" startPc="268440690">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441223" name="&lt;init&gt;" parent="SvenskKlassikerApp" startPc="268441205">
+<functionEntry accessMode="protected" endPc="268442225" name="&lt;init&gt;" parent="SvenskKlassikerApp" startPc="268442207">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268439911" name="getApp" startPc="268439883">
+<functionEntry accessMode="public" endPc="268440833" name="getApp" startPc="268440805">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440175" name="initialize" parent="SvenskKlassikerStartDelegate" startPc="268439912">
+<functionEntry accessMode="public" endPc="268441088" name="initialize" parent="SvenskKlassikerStartDelegate" startPc="268440834">
 <param id="view_"/>
+<param id="event_data"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440296" name="getWorkoutFromY" parent="SvenskKlassikerStartDelegate" startPc="268440176">
+<functionEntry accessMode="public" endPc="268441209" name="getWorkoutFromY" parent="SvenskKlassikerStartDelegate" startPc="268441089">
 <param id="ycoord"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440420" name="onTap" parent="SvenskKlassikerStartDelegate" startPc="268440297">
+<functionEntry accessMode="public" endPc="268441333" name="onTap" parent="SvenskKlassikerStartDelegate" startPc="268441210">
 <param id="evt"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440512" name="onMenu" parent="SvenskKlassikerStartDelegate" startPc="268440421">
+<functionEntry accessMode="public" endPc="268441583" name="onSwipe" parent="SvenskKlassikerStartDelegate" startPc="268441334">
+<param id="swipeEvent"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441204" name="&lt;init&gt;" parent="SvenskKlassikerStartDelegate" startPc="268441186">
+<functionEntry accessMode="public" endPc="268441675" name="onMenu" parent="SvenskKlassikerStartDelegate" startPc="268441584">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441248" name="&lt;init&gt;" parent="Drawables" startPc="268441248">
+<functionEntry accessMode="protected" endPc="268442409" name="&lt;init&gt;" parent="SvenskKlassikerStartDelegate" startPc="268442391">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441269" name="&lt;init&gt;" parent="Fonts" startPc="268441269">
+<functionEntry accessMode="protected" endPc="268442182" name="&lt;init&gt;" parent="Drawables" startPc="268442182">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441271" name="&lt;init&gt;" parent="JsonData" startPc="268441271">
+<functionEntry accessMode="protected" endPc="268442203" name="&lt;init&gt;" parent="Fonts" startPc="268442203">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440675" name="MainLayout" parent="Layouts" startPc="268440513">
+<functionEntry accessMode="protected" endPc="268442205" name="&lt;init&gt;" parent="JsonData" startPc="268442205">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441838" name="MainLayout" parent="Layouts" startPc="268441676">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441270" name="&lt;init&gt;" parent="Layouts" startPc="268441270">
+<functionEntry accessMode="protected" endPc="268442204" name="&lt;init&gt;" parent="Layouts" startPc="268442204">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268440810" name="initialize" parent="MainMenu" startPc="268440676">
+<functionEntry accessMode="public" endPc="268441973" name="initialize" parent="MainMenu" startPc="268441839">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441268" name="&lt;init&gt;" parent="MainMenu" startPc="268441250">
+<functionEntry accessMode="protected" endPc="268442202" name="&lt;init&gt;" parent="MainMenu" startPc="268442184">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441249" name="&lt;init&gt;" parent="Menus" startPc="268441249">
+<functionEntry accessMode="protected" endPc="268442183" name="&lt;init&gt;" parent="Menus" startPc="268442183">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441272" name="&lt;init&gt;" parent="Strings" startPc="268441272">
+<functionEntry accessMode="protected" endPc="268442206" name="&lt;init&gt;" parent="Strings" startPc="268442206">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="protected" endPc="268441247" name="&lt;init&gt;" parent="Rez" startPc="268441224">
+<functionEntry accessMode="protected" endPc="268442181" name="&lt;init&gt;" parent="Rez" startPc="268442158">
 <documentation/>
 </functionEntry>
 </functions>

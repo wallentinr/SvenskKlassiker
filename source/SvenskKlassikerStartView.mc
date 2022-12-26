@@ -7,7 +7,7 @@ import Toybox.Attention;
 
 
 class SvenskKlassikerStartView extends WatchUi.View {
-    var wo;
+    var workout;
 
     //! Constructor
     public function initialize() {
@@ -31,18 +31,18 @@ class SvenskKlassikerStartView extends WatchUi.View {
     public function onUpdate(dc as Dc) as Void {
         var height = dc.getHeight();
         var width = dc.getWidth();
-
-        dc.setColor(Graphics.COLOR_TRANSPARENT, Graphics.COLOR_BLACK);
+        dc.setColor(Graphics.COLOR_TRANSPARENT, Graphics.COLOR_WHITE);
         dc.clear();
 
-        for(var i = 0; i < wo.size(); i++){
-            dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
-            dc.fillRectangle(0, i * height / wo.size(), width, height / wo.size());
-            dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_TRANSPARENT);
-            dc.drawText(width/2, i * height / wo.size() + height / (wo.size()*2), Graphics.FONT_SMALL, wo[i]["name"] + " " + wo[i]["duration"] + "min/rep", Graphics.TEXT_JUSTIFY_CENTER);
-            dc.drawLine(0, i*(height / wo.size()), width, i*(height / wo.size()));
-        }
-       
+        dc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_TRANSPARENT);
+        dc.drawText(width/2, height/3 , Graphics.FONT_MEDIUM, workout["name"], Graphics.TEXT_JUSTIFY_CENTER);
+        dc.drawText(width/2, height*2/3 , Graphics.FONT_SMALL, workout["duration"] + "min/rep", Graphics.TEXT_JUSTIFY_CENTER);
+    }
+
+    public function change_workout(workout){
+        me.workout = workout;
+        WatchUi.requestUpdate();
+
     }
 
    

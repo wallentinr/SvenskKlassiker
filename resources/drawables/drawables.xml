@@ -1,4 +1,8 @@
 <drawables>
     <bitmap id="LauncherIcon" filename="launcher_icon.png" />
     <bitmap id="play_img" filename="Play-Button-PNG-Picture_smaller.png" />
+    <bitmap id="skiing" filename="cross-contry.jpg" />
+    <bitmap id="bike" filename="bike.jpg" />
+    <bitmap id="swim" filename="swim.jpg" />
+    <bitmap id="run_img" filename="lidingolopp.jpg" />
 </drawables>
